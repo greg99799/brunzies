@@ -4,6 +4,7 @@
     background: #000;
     color: #fff;
     text-align: center;
+    background-color: #000;
 }
 
 a {
@@ -16,7 +17,7 @@ header {
     border-bottom: 2px solid #000;
     margin-bottom: 5px;
     height: 100px;
-    background: #3D0000;
+    background: #390000;
 }
 header h1 {
     float: left;
@@ -27,6 +28,12 @@ header h1 {
 nav ul {
     margin-top: 0;   
     float: right;
+}
+
+header h1,
+nav ul,
+nav ul li {
+    background-color: #390000;
 }
 
 /*INDEX PAGE*/
