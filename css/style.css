@@ -16,6 +16,7 @@ header {
     border-bottom: 2px solid #000;
     margin-bottom: 5px;
     height: 100px;
+    background: #3D0000;
 }
 header h1 {
     float: left;
@@ -27,6 +28,10 @@ nav ul {
     margin-top: 0;   
     float: right;
 }
+
+/*INDEX PAGE*/
+
+
 
 
 
