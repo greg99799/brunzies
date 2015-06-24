@@ -45,16 +45,18 @@ nav ul li a {
 
 /*INDEX PAGE*/
 
-#photos {
-    position: relative;
-}
-
 .slideshow {
+    position: relative;
     padding: 0;
 }
 
-.slideshow img {
+.slideshow figure {
     position: absolute;
+}
+
+
+.slideshow img {
+    /*position: absolute;*/
     margin: 0;
 }
 
