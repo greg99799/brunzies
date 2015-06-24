@@ -30,6 +30,7 @@ nav ul {
     float: right;
 }
 
+/*fix this at some point*/
 header h1,
 nav ul,
 nav ul li {
@@ -38,6 +39,15 @@ nav ul li {
 
 /*INDEX PAGE*/
 
+#slideshow {
+    padding: 0;
+}
+
+#slideshow li img {
+    width: 100%;
+    height: 250px;
+    margin-left: 0;
+}
 
 
 
