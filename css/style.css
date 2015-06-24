@@ -45,11 +45,20 @@ nav ul li a {
 
 /*INDEX PAGE*/
 
-#slideshow {
+#photos {
+    position: relative;
+}
+
+.slideshow {
     padding: 0;
 }
 
-#slideshow li img,
+.slideshow img {
+    position: absolute;
+    margin: 0;
+}
+
+.slideshow img,
 #menu img {
     width: 100%;
     height: 250px;
