@@ -5,6 +5,7 @@
     color: #fff;
     text-align: center;
     background-color: #000;
+    font-family: 'Arimo', sans-serif;
 }
 
 a {
@@ -23,6 +24,10 @@ header h1 {
     float: left;
     margin-top: 25px;
     margin-left: 10px;
+    font-family: 'Arimo', sans-serif;
+    font-weight: 700;
+    letter-spacing: 3px;
+    font-size: 3em;
 }
 
 nav ul {
@@ -58,6 +63,7 @@ footer {
     background: #390000;
 }
 
+/*same issue as above*/
 footer p,
 footer p a {
     background: #390000;
