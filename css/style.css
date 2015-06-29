@@ -1,7 +1,7 @@
 /*GENERAL STYLING*/
 
-* {
-    background: #000;
+body {
+    background-image: url('../img/brick-texture2.jpg'); 
     color: #fff;
     text-align: center;
     background-color: #000;
@@ -10,42 +10,14 @@
 
 a {
     text-decoration: none;
-    /*padding: 0;*/
+    color: #bbb;
 }
 
 /*NAV DROP DOWN*/
 
-#nav {
-    /* container */
-}
-#nav > a {
-    display: none;
-}
-#nav li {
-    position: relative;
-}
- 
-    /* first level */
- 
-#nav > ul {
-    height: 3.75em;
-}
+#nav ul li {
+    /*float: right;  **THIS WILL BE FOR BIGGER SCREENS*/
 
-#nav > ul > li {
-    width: 25%;
-    height: 100%;
-    float: left;
-}
- 
-    /* second level */
- 
-#nav li ul {
-    display: none;
-    position: absolute;
-    top: 100%;
-}
-#nav li:hover ul {
-    display: block;
 }
 
 
