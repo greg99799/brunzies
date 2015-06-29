@@ -24,17 +24,23 @@
     li a {
       display: block;
       width:80%;
-      background:#ddd;
+      /*background:#ffe;*/
       padding:4% 10%;
       font-size:1.35em;
       text-decoration: none;
     }
+
+    #dropdown {
+      height: 255px;
+      width: 100px;
+      float: right;
+    }
     @media screen and (max-width: 768px) {
       #menu {
         float: right;
-        width:1.4em;
+        width:100%;
         display: block;
-        background:#ddd;
+        /*background:#ddd;*/
         font-size:4.35em;
         text-align: center;
       }
@@ -47,8 +53,8 @@
       li {
         width:100%;
         border-right:none;
-        text-align: right;
-        margin-left: 17px;
+        text-align: center;
+        /*margin-left: 17px;*/
       }
     }
     @media screen and (min-width: 768px) {
@@ -72,6 +78,7 @@
       $("#nav").addClass("js").before('<div id="menu">&#9776;</div>');
       $("#menu").click(function(){
         $("#nav").toggle();
+        // $("ul").fadeIn(); need to work on this
       });
       $(window).resize(function(){
         if(window.innerWidth > 768) {
