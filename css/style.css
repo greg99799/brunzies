@@ -1,17 +1,13 @@
 /*GENERAL STYLING*/
 
 body {
-    background: url('../img/brick-texture2.jpg') fixed; 
+    background: url('../img/brick-texture.jpg') fixed; 
     color: #fff;
     text-align: center;
     background-color: #000;
     font-family: 'Arimo', sans-serif;
 }
 
-a {
-    text-decoration: none;
-    color: #bbb;
-}
 
 /*NAV DROP DOWN*/
 
@@ -24,12 +20,12 @@ a {
 /*HEADER*/
 
 header {
-    border-bottom: 2px solid #000;
+    /*border-bottom: 2px solid #000;*/
     margin-bottom: 5px;
     height: 100px;
     background: #390000;
 }
-header h1 {
+h1 {
     float: left;
     margin-top: 25px;
     margin-left: 10px;
@@ -45,7 +41,7 @@ header h1 {
 }*/
 
 /*fix this at some point*/
-header h1 {
+h1 {
 /*nav ul,*/
 /*nav ul li,*/
 /*nav ul li a {*/
@@ -90,8 +86,12 @@ footer p a {
     margin-bottom: 0;   
 }
 
+/*LINKS*/
 
-
+a {
+    text-decoration: none;
+    color: #fff;
+}
 
 
 
