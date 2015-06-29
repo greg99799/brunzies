@@ -1,7 +1,7 @@
 /*GENERAL STYLING*/
 
 body {
-    background-image: url('../img/brick-texture2.jpg'); 
+    background: url('../img/brick-texture2.jpg') fixed; 
     color: #fff;
     text-align: center;
     background-color: #000;
