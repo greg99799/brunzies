@@ -1,0 +1,81 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1033" measuredH="941" mockupW="639" mockupH="941">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="394" y="0" w="398" h="941" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="394" y="15" w="282" h="79" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="709" y="15" w="-1" h="-1" measuredW="62" measuredH="93" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Menu%0AHome%0AMenu%0ABeers%0AContact</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="440" y="37" w="-1" h="-1" measuredW="203" measuredH="34" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Brunzies%20text%20or%20logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::HRule" x="394" y="113" w="398" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ScratchOut" x="394" y="0" w="398" h="940" measuredW="205" measuredH="107" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>13576743</color>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="394" y="117" w="398" h="231" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Image%20Carousel</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="526" y="357" w="117" h="-1" measuredW="72" measuredH="38" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>24</size>
+        <text>Menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="394" y="410" w="398" h="231" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Food%20Pic</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="394" y="705" w="398" h="109" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>M-F%20%201-2pm%20%0AALL%20DRINKS%20FREE%0AWed/Fri/Sat%208pm-close%0ALadies%20Night%0ALadies%20drink%20for%20free%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextArea" x="394" y="844" w="398" h="95" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>%20%0A%20%0ABrunzies%20999-999-9999%0AFollow%20us%20on%20twitter%20@brunzies</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="526" y="656" w="117" h="-1" measuredW="120" measuredH="34" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Happy%20Hour</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="551" y="261" w="-1" h="-1" measuredW="85" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>eventually%20%3A%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextArea" x="833" y="179" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20reddish%20image%20you%20see%20in%20the%20background%20will%20hopefully%20be%20a%20brick%20texture%20that%20will%20remain%20fixed.%20That%20means%20whenever%20one%20scrolls%20up%20or%20down%20the%20page%2C%20the%20brick%20image%20will%20remain%20stationary.</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextArea" x="833" y="11" w="200" h="75" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20mobile%20menu%20will%20also%20reduce%20to%20an%20icon%20that%20will%20trigger%20the%20dropdown%20menu%20%28or%20some%20other%20effect%29%20when%20tapped.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
